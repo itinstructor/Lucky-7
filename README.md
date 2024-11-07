@@ -1,6 +1,6 @@
 # Lucky 7 in Python
 
-A simple one armed bandit program in Python using CustomTkinter. This is a remake of one I did several years ago for an assignment for my Visual C# class. 
+A simple one armed bandit program in Python using CustomTkinter. This is a remake of one I did several years ago for an assignment for my Visual C# class. The Visual C# tutorial is included.
 
 ## License
 
