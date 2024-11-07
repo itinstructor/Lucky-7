@@ -1,5 +1,9 @@
-# MusicPlayer
-A Music Player in Python Tkinter using Pygame mixer to play mp3 and wav music files.
-- MP3 contains several original songs I composed 20 years ago.
-### Changes
-- 01/03/2021: Added mutagen library to get ID3 data from an mp3 file
+# Lucky 7 in Python
+
+A simple one armed bandit program in Python using CustomTkinter. This is a remake of one I did several years ago for an assignment for my Visual C# class. 
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+Copyright (c) 2024 William A Loring
